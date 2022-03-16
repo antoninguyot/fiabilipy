@@ -1,0 +1,6 @@
+This package provides some functions to learn engineering reliability
+at university. One can build components, put them together to build a
+system and evaluate its reliability, maintainability, availability, the
+Mean-Time-To-Failure, etc.
+
+This package also provides functions to describe a system by a Markov process.
